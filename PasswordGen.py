@@ -1,6 +1,6 @@
 #! python3
 # Password Generator 
-# By Jeff Stellingwerf
+# By Jeff
 
 import random
 
